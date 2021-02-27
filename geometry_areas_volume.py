@@ -28,6 +28,10 @@ class Cylinder:
             2 * self.radius * self.height
         return round(surface_area, 2)
 
+'''
+2D: Trapezoid, Triangle, Regular Polygon
+3D: Cone, Sphere, Pyramid
+'''
 
 # Testing codes
 # print(circle(radius=3).circumference())
